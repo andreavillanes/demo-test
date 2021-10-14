@@ -7,3 +7,33 @@ site: bookdown::bookdown_site
 
 # Executive Summary
 
+We can use any arithmetic operator, like addition, subtraction, multiplication, divison, exponentiation, and modulus operations:
+
+
+```{r results='hide', message=FALSE, eval=FALSE}
+  # addition
+  1 + 1
+  
+  # subtraction
+  6 - 4
+  
+  # multiplication 
+  2 * 2 
+  
+  # division
+  10 / 5
+  10.2 / 5
+  
+  # integer divison
+  15.2 %/% 5 
+  15.7 %/% 5
+  
+  # modulus
+  15.2 %% 5 
+  15.8 %% 5
+  
+  # exponential
+  2^3 
+  
+```
+

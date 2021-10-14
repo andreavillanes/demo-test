@@ -1,3 +1,7 @@
 executive-summary
-the-pool-of-tears
-a-caucus-race-and-a-long-tale
+methodology
+data-used
+analysis
+model-evaluation
+results
+recommendations
